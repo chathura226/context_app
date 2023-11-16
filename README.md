@@ -1,3 +1,6 @@
+# Context App
+Small react web app to demonstrate react context usage
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
